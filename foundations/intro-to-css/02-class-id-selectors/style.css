@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+.odd-lines {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffc0cb;
+}
